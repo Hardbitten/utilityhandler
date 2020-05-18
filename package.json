@@ -1,0 +1,40 @@
+{
+  "_from": "utilityhandler@^1.0.0",
+  "_id": "utilityhandler@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-K8p3scrc6i1F8ploWAiyncpdwXbytQjlh165f+bYklzEWkYZgAY1AWLcyF0+YLh/xUsrNb53iaCHqrqUlgUggw==",
+  "_location": "/utilityhandler",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "utilityhandler@^1.0.0",
+    "name": "utilityhandler",
+    "escapedName": "utilityhandler",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/",
+    "/jsonvalidator",
+    "/shamsidatehandler"
+  ],
+  "_resolved": "http://localhost:4873/utilityhandler/-/utilityhandler-1.0.0.tgz",
+  "_shasum": "ff1bce77fc0f8bef369e75b5643815b8a64639cf",
+  "_spec": "utilityhandler@^1.0.0",
+  "_where": "D:\\Project\\Namira\\Checkup",
+  "author": {
+    "name": "Mahdi-Sarafraz"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "utilityhandler",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
